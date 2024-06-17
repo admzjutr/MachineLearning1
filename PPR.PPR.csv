@@ -1,0 +1,211 @@
+_id,Nombre de la presa,Latitud,Longitud,Altitud,Estado,Municipio,Cuenca de disponibilidad,Región hidrológica,NAME Elevación (msnm),NAME Almacenamiento (hm³),NAMO Elevación (msnm),NAMO Almacenamiento (hm³),Elevación Actual (msnm),Almacenamiento Actual (hm³),% de llenado actual
+665117fa22e03d3d869c0c74,"El Niágara, Ags.",21.78,-102.371667,1828,Aguascalientes,Aguascalientes,Presa El Niágara,Lerma Santiago,1837.76,6.528,1836,5.366,1822.48,0.443,8
+665117fa22e03d3d869c0c75,"La Codorniz, Ags.",21.9975,-102.676944,1783,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,2088.57,5.039,2086,4.1,2077.9,2.198,54
+665117fa22e03d3d869c0c76,"Media Luna, Ags.",21.8075,-102.788333,1585,Aguascalientes,Calvillo,Río Juchipila 1,Lerma Santiago,1943.4,11.4,1942.45,10.975,1939.72,9.15,83
+665117fa22e03d3d869c0c77,"Abelardo L. Rodríguez, Ags.",21.916944,-102.427778,1974,Aguascalientes,Jesús María,Presa El Niágara,Lerma Santiago,2093,2.1,2092.6,2.038,2085.92,1.161,57
+665117fa22e03d3d869c0c78,"Derivadora Pabellón, Ags.",22.235,-102.4375,2090,Aguascalientes,Rincón de Romos,Río San Pedro,Lerma Santiago,2022,407.438,2020,358.121,1998.22,37.687,11
+665117fa22e03d3d869c0c79,"Cincuenta Aniversario, Ags.",22.188611,-102.464167,2050,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,1832.4,31.695,1828.4,16.188,1828.03,15.123,93
+665117fa22e03d3d869c0c7a,"Jocoque, Ags.",22.121667,-102.356944,1970,Aguascalientes,San José de Gracia,Río San Pedro,Lerma Santiago,1621.96,21.196,1619.2,15,1609.32,2.479,17
+665117fa22e03d3d869c0c7b,"Plutarco Elías Calles, Ags.",22.141111,-102.417222,2020,Aguascalientes,San José de Gracia,Presa Calles,Lerma Santiago,1890,18.816,1888.88,15.997,1881.77,4.304,27
+665117fa22e03d3d869c0c7c,"Emilio López Zamora, B.C.",31.890278,-116.6025,70,Baja California,Ensenada,Ensenada-El Gallo,B.C.Noroeste,822,5.1,820,5.01,815.175,3.019,60
+665117fa22e03d3d869c0c7d,"Las Auras, B.C.",32.544722,-116.531667,0,Baja California,Tecate,Tijuana,B.C.Noroeste,125,121.392,115.85,76.9,107.34,43.011,56
+665117fa22e03d3d869c0c7e,"Abelardo L. Rodríguez, B.C.",32.444722,-116.908333,120,Baja California,Tijuana,Tijuana,B.C.Noroeste,25.26,6.342,19.89,2.732,21.17,3.336,122
+665117fa22e03d3d869c0c7f,"El Carrizo, B.C.",32.479444,-116.696944,495,Baja California,Tijuana,Tijuana,B.C.Noroeste,286.22,44.585,284.7,40.866,278.29,27.046,66
+665117fa22e03d3d869c0c80,"Doctor Belisario Domínguez, Chis.",16.401389,-92.778889,520,Chiapas,Acala,Presa Chicoasén,Grijalva-Usumacinta,395,1318.6,392.5,205.98,390.41,164.513,80
+665117fa22e03d3d869c0c81,"Juan Sabines, Chis.",15.996389,-92.898611,1550,Chiapas,La Concordia,Presa La Concordia,Grijalva-Usumacinta,539.5,19736.4,533,13169.63,515.57,4559.99,35
+665117fa22e03d3d869c0c82,"Ángel Albino Corzo, Chis.",17.446111,-93.458611,50,Chiapas,Ostuacán,Presa Peñitas,Grijalva-Usumacinta,618.27,116.11,612.12,68.15,603.39,27.23,40
+665117fa22e03d3d869c0c83,"Manuel Moreno Torres, Chis.",16.941667,-93.100556,710,Chiapas,Osumacinta,Presa Chicoasén,Grijalva-Usumacinta,95.5,578.63,87.4,215.041,85.43,170.016,79
+665117fa22e03d3d869c0c84,"Nezahualcóyotl, Chis.",17.178611,-93.598889,192,Chiapas,Tecpatán,Presa Nezahualcóyotl,Grijalva-Usumacinta,188,14056.32,182.5,9317.39,163.03,4032.71,43
+665117fa22e03d3d869c0c85,"Ing. Luis L. León, Chih.",28.984444,-105.28,1055,Chihuahua,Aldama,Río Conchos 3,Bravo Conchos,2051.3,102.891,2047.8,79.354,2033.51,14.961,19
+665117fa22e03d3d869c0c86,"Piedras Azules, Chih.",27.249167,-105.211111,0,Chihuahua,Allende,Río Parral,Bravo Conchos,1319.1,3192.75,1317,2846.78,1297.98,761.533,27
+665117fa22e03d3d869c0c87,"Las Lajas, Chih.",29.88,-107.025833,1565,Chihuahua,Buenaventura,Río del Carmen 1,Cuencas Centrales del Norte,1242.56,477.622,1239.3,333.32,1228.43,81.93,25
+665117fa22e03d3d869c0c88,"El Tintero, Chih.",29.5625,-107.384167,1729,Chihuahua,Buenaventura,Río Santa María 2,Cuencas Centrales del Norte,1478.32,7.755,1477,6.528,1475.89,5.6,86
+665117fa22e03d3d869c0c89,"Chihuahua, Chih.",28.570556,-106.167778,1900,Chihuahua,Chihuahua,Río Chuviscar,Bravo Conchos,1709.03,216.703,1703,125.075,1686.75,14.761,12
+665117fa22e03d3d869c0c8a,"El Rejón, Chih.",28.614722,-106.119444,1480,Chihuahua,Chihuahua,Río Conchos 3,Bravo Conchos,1998.42,13.194,1996.5,8.712,1995.2,6.25,72
+665117fa22e03d3d869c0c8b,"Pico del Águila, Chih.",26.546389,-105.254167,0,Chihuahua,Coronado,Río Florido 3,Bravo Conchos,1619,59.843,1616.9,48.276,1611.1,22.963,48
+665117fa22e03d3d869c0c8c,"Abraham González, Chih.",28.481667,-107.482778,2020,Chihuahua,Guerrero,Río Yaqui 1,Sonora Sur,1050.5,824.762,1034.8,284.382,1031.89,223.721,79
+665117fa22e03d3d869c0c8d,"Francisco I. Madero, Chih.",28.166111,-105.628889,1300,Chihuahua,Rosales,Río San Pedro,Bravo Conchos,1561.62,106.547,1558.7,83.266,1542.04,8.404,10
+665117fa22e03d3d869c0c8e,"La Boquilla, Chih.",27.544722,-105.414167,1323,Chihuahua,San Francisco de Conchos,Río Conchos 1,Bravo Conchos,1544.28,35.631,1540.82,23.383,1537.08,13.833,59
+665117fa22e03d3d869c0c8f,"Internacional La Amistad, Coah.",29.45,-101.06,355,Coahuila de Zaragoza,Acuña,Río Bravo 5,Bravo Conchos,341.96,22.193,341.74,21.168,339.86,13.878,66
+665117fa22e03d3d869c0c90,"El Centenario, Coah.",29.213611,-100.95,325,Coahuila de Zaragoza,Jiménez,Arroyo de las Vacas,Bravo Conchos,261.8,1322.372,259.24,874.1,251.7,143.99,16
+665117fa22e03d3d869c0c91,"La Fragua, Coah.",28.82,-100.832222,300,Coahuila de Zaragoza,Jiménez,Río San Rodrigo,Bravo Conchos,303.96,85.38,300.3,47.295,296.39,21.794,46
+665117fa22e03d3d869c0c92,"San Miguel, Coah.",29.034167,-100.953889,230,Coahuila de Zaragoza,Jiménez,Río San Diego,Bravo Conchos,336.38,25.711,336.15,24.589,333.4,13.666,56
+665117fa22e03d3d869c0c93,"Venustiano Carranza, Coah.",27.515,-100.616111,272,Coahuila de Zaragoza,Juárez,Río Salado,Bravo Conchos,349.03,2707.437,340.46,1769.66,320.275,195.36,11
+665117fa22e03d3d869c0c94,"Laguna de Amela, Col.",18.809167,-103.774167,20,Colima,Tecomán,Coahuayana 2,Armería-Coahuayana,7.64,41.3,7.39,38.343,5.72,21.163,55
+665117fa22e03d3d869c0c95,"Caboraca, Dgo.",24.538333,-104.810278,0,Durango,Canatlán,Río La Sauceda,Presidio San Pedro,2001.28,57.88,1998.25,45,1991.56,21.951,49
+665117fa22e03d3d869c0c96,"Francisco Zarco, Dgo.",25.270833,-103.773611,1200,Durango,Cuencamé,Presa Francisco Zarco,Nazas Aguanaval,1434.1,56.06,1430.2,30.764,1426.09,13.348,43
+665117fa22e03d3d869c0c97,"Presidente Guadalupe Victoria, Dgo.",23.961111,-104.753056,1982,Durango,Durango,Río Durango,Presidio San Pedro,1783.39,377.338,1777.9,245.431,1768.16,93.032,38
+665117fa22e03d3d869c0c98,"Peña del Águila, Dgo.",24.203889,-104.656667,1896,Durango,Durango,Río La Sauceda,Presidio San Pedro,2001.61,18.766,1999.8,15.08,1989.3,1.95,13
+665117fa22e03d3d869c0c99,"Santiago Bayacora, Dgo.",23.874444,-104.675833,1900,Durango,Durango,Río Santiago Bayacora,Presidio San Pedro,1965.94,169.869,1959.01,130.047,1949.32,86.007,66
+665117fa22e03d3d869c0c9a,"Los Naranjos, Dgo.",24.613056,-103.306944,1650,Durango,General Simón Bolívar,Presa La Flor,Nazas Aguanaval,1632,4278.541,1620.87,2770.51,1597.93,962.171,35
+665117fa22e03d3d869c0c9b,"Santa Elena, Dgo.",24.608333,-103.079722,2480,Durango,General Simón Bolívar,Presa La Flor,Nazas Aguanaval,1934.61,94.617,1931,78.06,1920.02,37.774,48
+665117fa22e03d3d869c0c9c,"Ing. Benjamín Ortega Cantero, Dgo.",26.226389,-104.493889,1400,Durango,Hidalgo,Arroyo La India-Laguna Palomas,Mapimi,1210.05,383.16,1208.2,309.24,1201,110.089,36
+665117fa22e03d3d869c0c9d,"Villa Hidalgo, Dgo.",26.2425,-104.928889,1750,Durango,Hidalgo,Arroyo La India-Laguna Palomas,Mapimi,1996.13,96.57,1993,73.26,1988.2,45.389,62
+665117fa22e03d3d869c0c9e,"Lázaro Cárdenas, Dgo.",25.594167,-105.015833,1600,Durango,Indé,Presa Lázaro Cárdenas,Nazas Aguanaval,1729.55,39.555,1726.23,23.08,1721.59,8.691,38
+665117fa22e03d3d869c0c9f,"San Gabriel, Dgo.",26.436667,-105.560833,1739,Durango,Ocampo,Río Florido 1,Bravo Conchos,1580.12,18.56,1576.92,14,1565.99,2.628,19
+665117fa22e03d3d869c0ca0,"Francisco Villa, Dgo.",24.001667,-103.960833,1961,Durango,Poanas,Río Poanas,Presidio San Pedro,1895.27,54.902,1892.5,27.948,1886.41,3.189,11
+665117fa22e03d3d869c0ca1,"El Tigre, Dgo.",24.563056,-102.785,0,Durango,San Juan de Guadalupe,Presa La Flor,Nazas Aguanaval,1661.09,27.39,1658.4,20.928,1652.45,10.239,49
+665117fa22e03d3d869c0ca2,"Solís, Gto.",20.055278,-100.669722,1879,Guanajuato,Acámbaro,Río Lerma 3,Lerma Santiago,2566.92,52.509,2565.5,35.312,2561.44,8.493,24
+665117fa22e03d3d869c0ca3,"Peñuelitas, Gto.",21.105,-100.878333,1915,Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,Río La Laja 1,Lerma Santiago,2512.8,126.5,2512.65,121.3,2507.35,2,2
+665117fa22e03d3d869c0ca4,"La Purísima, Gto.",20.867222,-101.287778,1839,Guanajuato,Guanajuato,Río Lerma 5,Lerma Santiago,2306.82,64.08,2305.2,56.91,2299.1,34.083,60
+665117fa22e03d3d869c0ca5,"La Soledad, Gto.",21.04,-101.279722,2001,Guanajuato,Guanajuato,Río Lerma 5,Lerma Santiago,2607.5,249.943,2605.5,185.723,2599.43,46.624,25
+665117fa22e03d3d869c0ca6,"El Palote, Gto.",21.173611,-101.678889,1856,Guanajuato,León,Río Lerma 5,Lerma Santiago,1833,449.42,1830,394.39,1812.15,109.273,28
+665117fa22e03d3d869c0ca7,"La Golondrina, Gto.",20.439167,-101.7425,1939,Guanajuato,Pénjamo,Río Lerma 5,Lerma Santiago,2216.1,47.386,2214.1,39.914,2209.25,23.189,58
+665117fa22e03d3d869c0ca8,"Mariano Abasolo, Gto.",20.507222,-101.931111,1740,Guanajuato,Pénjamo,Río Lerma 6,Lerma Santiago,2594.46,81.029,2592.02,59.966,2587.62,31.055,52
+665117fa22e03d3d869c0ca9,"Ignacio Allende, Gto.",20.848056,-100.825833,1820,Guanajuato,San Miguel de Allende,Río La Laja 1,Lerma Santiago,2475.5,18.5,2474,16.8,2456.66,3.23,19
+665117fa22e03d3d869c0caa,"Laguna de Yuriria, Gto.",20.286944,-101.073056,1736,Guanajuato,Yuriria,Río Lerma 4,Lerma Santiago,2385.09,8.7,2384.39,7.686,2378,0.302,4
+665117fa22e03d3d869c0cab,"Andrés Figueroa, Gro.",18.075833,-100.5175,387,Guerrero,Ajuchitlán del Progreso,Río Medio Balsas,Balsas,2346.04,17.964,2332.5,7.13,2331.28,6.523,91
+665117fa22e03d3d869c0cac,"Vicente Guerrero, Gro.",18.382778,-100.265833,0,Guerrero,Arcelia,Río Medio Balsas,Balsas,2550.48,36.3,2548.44,20.227,2545.78,6.454,32
+665117fa22e03d3d869c0cad,"Revolución Mexicana, Gro.",16.823611,-99.166111,80,Guerrero,Ayutla de los Libres,Río Nexpa 1,Costa Chica de Guerrero,2697.8,12.32,2696.7,9.93,2690.94,1.725,17
+665117fa22e03d3d869c0cae,"El Gallo, Gro.",18.703056,-100.671111,400,Guerrero,Cutzamala de Pinzón,Río Medio Balsas,Balsas,2455.13,32.67,2454,31.046,2442.44,3.889,13
+665117fa22e03d3d869c0caf,"Ing. Carlos Ramírez Ulloa, Gro.",17.947778,-99.995556,513,Guerrero,General Heliodoro Castillo,Río Medio Balsas,Balsas,2352.54,12.599,2352.1,12.111,2341.81,4.167,34
+665117fa22e03d3d869c0cb0,"Laguna de Tuxpan, Gro.",18.363333,-99.503056,20,Guerrero,Iguala de la Independencia,Río Medio Balsas,Balsas,1898.7,1214.14,1892.54,800,1885.96,450.82,56
+665117fa22e03d3d869c0cb1,"Valerio Trujano, Gro.",18.295833,-99.466111,842,Guerrero,Tepecoacuilco de Trujano,Río Medio Balsas,Balsas,2209.15,2.371,2207.75,1.857,2200.64,0.131,7
+665117fa22e03d3d869c0cb2,"La Calera, Gro.",18.418611,-101.003056,239,Guerrero,Zirándaro,Río Bajo Balsas,Balsas,1833.33,241.41,1828.75,125.12,1821.02,22.614,18
+665117fa22e03d3d869c0cb3,"Javier Rojo Gómez, Hgo.",20.359722,-99.329444,1860,Hidalgo,Alfajayucan,Río Alfajayucan,Pánuco,1837.12,5.97,1835.2,4.67,1823.75,0.538,12
+665117fa22e03d3d869c0cb4,"Vicente Aguirre, Hgo.",20.435556,-99.375833,1870,Hidalgo,Alfajayucan,Río Alfajayucan,Pánuco,1838.6,17.161,1836.15,9.643,1829.67,0,0
+665117fa22e03d3d869c0cb5,"La Esperanza, Hgo.",20.0575,-98.334722,2210,Hidalgo,Cuautepec de Hinojosa,Río Grande de Tulancingo,Pánuco,1860.7,181.926,1853.47,110,1843.72,42.712,39
+665117fa22e03d3d869c0cb6,"Endhó, Hgo.",20.163889,-99.36,2048,Hidalgo,Tepetitlán,Río Tula,Pánuco,1907.29,30.169,1904.7,17.46,1895.5,0,0
+665117fa22e03d3d869c0cb7,"Requena, Hgo.",19.963056,-99.310833,2109,Hidalgo,Tula de Allende,Presa Endhó,Pánuco,1753.08,23.946,1751.3,20.079,1744.39,8.377,42
+665117fa22e03d3d869c0cb8,"Ing. Fernando Hiriart Balderrama, Hgo.",20.663333,-99.501111,1813,Hidalgo,Zimapán,Embalse Zimapán,Pánuco,1731.4,325.195,1730.92,278.79,1726.08,0.175,0
+665117fa22e03d3d869c0cb9,"La Red, Jal.",20.718889,-102.815278,1758,Jalisco,Acatic,Río Santiago 1,Lerma Santiago,382.61,133.029,377,102.5,359.33,40.592,40
+665117fa22e03d3d869c0cba,"Hurtado, Jal.",20.466944,-103.651111,1400,Jalisco,Acatlán de Juárez,Laguna Villa Corona A,Lerma Santiago,122.62,34.193,118,9.393,117.3,7.448,79
+665117fa22e03d3d869c0cbb,"Manuel M. Dieguez, Jal.",20.908889,-103.705556,730,Jalisco,Amatitán,Presa Santa Rosa,Lerma Santiago,183.2,15194.8,165,7872.59,150.62,4233.044,54
+665117fa22e03d3d869c0cbc,"Ing. Guillermo Lugo Sanabria, Jal.",20.491111,-102.231944,1671,Jalisco,Ayotlán,Río Lerma 7,Lerma Santiago,368,545.966,362.78,400.039,356.58,266.88,67
+665117fa22e03d3d869c0cbd,"Ramón Corona Madrigal General, Jal.",19.976111,-104.370278,1004,Jalisco,Ayutla,Corcovado,Armería-Coahuayana,842.78,51.727,840,31.014,832.36,4.644,15
+665117fa22e03d3d869c0cbe,"Lago de Chapala, Jal.",20.290556,-103.201667,1523,Jalisco,Chapala,Río Lerma 7,Lerma Santiago,430.3,300,425,249.49,408.38,97.523,39
+665117fa22e03d3d869c0cbf,"Cuquío, Jal.",20.948056,-103.039444,1799,Jalisco,Cuquío,Río Santiago 2,Lerma Santiago,107.59,259.502,94.4,126.694,88.68,86.728,68
+665117fa22e03d3d869c0cc0,"Basilio Vadillo, Jal.",19.913611,-104.061111,824,Jalisco,El Limón,Las Piedras,Armería-Coahuayana,743.35,19.503,742.84,17.647,741.65,13.47,76
+665117fa22e03d3d869c0cc1,"Ing. Alfredo Elías Ayub, Jal.",21.196944,-104.105833,579,Jalisco,Hostotipaquillo,Río Santiago 4,Lerma Santiago,523.6,1183.23,521,1057.29,509.17,640.715,61
+665117fa22e03d3d869c0cc2,"Achimec, Jal.",22.327222,-103.225278,1825,Jalisco,Huejúcar,Río Tepetongo,Lerma Santiago,1563,1460,1560,1390,1543.89,1108.478,80
+665117fa22e03d3d869c0cc3,"Constitución de Apatzingán, Jal.",19.287778,-102.774167,440,Jalisco,Jilotlán de los Dolores,Río Tepalcatepec,Balsas,2020,208.65,2018,182.9,2005.3,63.795,35
+665117fa22e03d3d869c0cc4,"El Cuarenta, Jal.",21.497778,-101.7375,1998,Jalisco,Lagos de Moreno,Presa El Cuarenta,Lerma Santiago,1855.5,19.685,1854.9,17.799,1843.82,0.154,1
+665117fa22e03d3d869c0cc5,"La Sauceda, Jal.",21.359167,-101.835556,1940,Jalisco,Lagos de Moreno,Río de Lagos,Lerma Santiago,2110.3,61.519,2106.74,36.03,2100.94,8.203,23
+665117fa22e03d3d869c0cc6,"Corrinchis, Jal.",20.479722,-104.780833,0,Jalisco,Mascota,Mascota,Río Ameca,1977.839,43.317,1976.84,39.99,1965.65,15.888,40
+665117fa22e03d3d869c0cc7,"Solidaridad, Jal.",18.967222,-103.396667,291,Jalisco,Pihuamo,Barreras,Armería-Coahuayana,2209.6,4.2,2207.7,3.92,2207.7,3.92,100
+665117fa22e03d3d869c0cc8,"Tenasco, Jal.",22.171944,-103.198611,1850,Jalisco,Santa María de los Ángeles,Río Tepetongo,Lerma Santiago,2167,29.263,2165,24.031,2157.19,7.294,30
+665117fa22e03d3d869c0cc9,"Ing. Santiago Camarena, Jal.",20.596389,-103.845833,1260,Jalisco,Teuchitlán,Salado,Río Ameca,2184.5,49.227,2183,40.638,2175.14,5.613,14
+665117fa22e03d3d869c0cca,"Cajón de Peña, Jal.",19.9975,-105.129722,132,Jalisco,Tomatlán,Río Tomatlán A,Costa de Jalisco,978.97,146.888,974.35,124.75,958.96,65.553,53
+665117fa22e03d3d869c0ccb,"Tacotán, Jal.",20.036111,-104.320278,1330,Jalisco,Unión de Tula,Tacotán,Armería-Coahuayana,1844.27,12.212,1841.5,7.364,1832.32,0.724,10
+665117fa22e03d3d869c0ccc,"El Salto, Jal.",21.037222,-102.705,0,Jalisco,Valle de Guadalupe,Río del Valle,Lerma Santiago,1724.84,13.85,1722.85,10.49,1716.96,4.138,39
+665117fa22e03d3d869c0ccd,"Vicente C. Villaseñor, Jal.",19.939722,-102.941667,0,Jalisco,Valle de Juárez,Río Tepalcatepec,Balsas,1406.29,169,1403.06,149.239,1383.68,69.834,47
+665117fa22e03d3d869c0cce,"El Estribón, Jal.",21.185556,-102.900556,0,Jalisco,Yahualica de González Gallo,Río Verde 1,Lerma Santiago,748,418,746.46,393.36,733.3,284.8,72
+665117fa22e03d3d869c0ccf,"Chila, Jal.",20.489722,-102.944167,0,Jalisco,Zapotlán del Rey,Río Santiago 1,Lerma Santiago,1921.03,21.5,1918.9,16,1911.67,3.903,24
+665117fa22e03d3d869c0cd0,"La Colonia, Jal.",20.43,-102.931944,0,Jalisco,Zapotlán del Rey,Río Santiago 1,Lerma Santiago,99,9279.71,98,8126.41,93.34,3048.729,38
+665117fa22e03d3d869c0cd1,"Ing. Elías González Chávez, Jal.",20.680833,-102.976111,0,Jalisco,Zapotlanejo,Río Santiago 1,Lerma Santiago,103.4,6.5,103,5.775,102.55,4.421,77
+665117fa22e03d3d869c0cd2,"El Molino, Méx.",20.124167,-99.739722,2740,México,Aculco,Arroyo Zarco,Pánuco,1462.66,22.624,1462.66,22.624,1458.98,4.99,22
+665117fa22e03d3d869c0cd3,"Ñadó, Méx.",20.038611,-99.864444,2500,México,Aculco,Río Ðado,Pánuco,1881.41,7.74,1880,6.378,1878.15,5.048,79
+665117fa22e03d3d869c0cd4,"Ignacio Ramírez, Méx.",19.461667,-99.775,2557,México,Almoloya de Juárez,Río La Gavia,Lerma Santiago,1812.5,118.54,1810.16,85,1806.93,60.417,71
+665117fa22e03d3d869c0cd5,"Francisco José Trinidad Fabela, Méx.",19.829167,-99.790278,2812,México,Atlacomulco,Río Lerma 2,Lerma Santiago,1620,100,1618,80,1608.22,17.604,22
+665117fa22e03d3d869c0cd6,"Sierra de Guadalupe, Méx.",19.635556,-99.252222,2290,México,Cuautitlán Izcalli,Río Cuautitlán,Pánuco,1258.86,80,1257,44.035,1255.38,19.542,44
+665117fa22e03d3d869c0cd7,"Danxhó, Méx.",19.884722,-99.559722,1249,México,Jilotepec,Presa Endhó,Pánuco,1878,18.12,1877,14.44,1875.84,10.316,71
+665117fa22e03d3d869c0cd8,"Madín, Méx.",19.526944,-99.260833,2325,México,Naucalpan de Juárez,Ciudad de México,Pánuco,301.11,285.742,292.37,203.388,278.68,111.831,55
+665117fa22e03d3d869c0cd9,"San Andrés Tepetitlán, Méx.",19.660833,-99.961389,2584,México,San Felipe del Progreso,Río Jaltepec,Lerma Santiago,1209.36,324,1201.4,250,1178.98,103.614,41
+665117fa22e03d3d869c0cda,"José Antonio Alzate, Méx.",19.465833,-99.704722,2571,México,Temoaya,Río Lerma 2,Lerma Santiago,1794.7,18.3,1792.5,14.25,1786.65,5.582,39
+665117fa22e03d3d869c0cdb,"La Concepción, Méx.",19.695,-99.304444,2360,México,Tepotzotlán,Río Cuautitlán,Pánuco,1665,56.15,1663.46,51.675,1645.9,17.35,34
+665117fa22e03d3d869c0cdc,"Huapango, Méx.",20.046389,-99.696944,2623,México,Timilpan,Arroyo Zarco,Pánuco,1806.58,8.85,1805.5,7.5,1802.7,4.325,58
+665117fa22e03d3d869c0cdd,"Valle de Bravo, Méx.",19.2075,-100.18,2476,México,Valle de Bravo,Río Cutzamala,Balsas,2001.95,38.96,1998.75,30.625,1985.24,4.888,16
+665117fa22e03d3d869c0cde,"Taxhimay, Méx.",19.834722,-99.385278,0,México,Villa del Carbón,Presa Requena,Pánuco,1336.1,29,1332.6,20,1326.73,8.914,45
+665117fa22e03d3d869c0cdf,"Villa Victoria, Méx.",19.461667,-100.055556,2577,México,Villa Victoria,Río Cutzamala,Balsas,139.2,707.62,129.37,442.758,122.85,300.176,68
+665117fa22e03d3d869c0ce0,"Melchor Ocampo, Mich.",20.127222,-101.724444,1720,Michoacán de Ocampo,Angamacutiro,Río Angulo,Lerma Santiago,437.68,807.15,429.45,590.025,410.75,263.189,45
+665117fa22e03d3d869c0ce1,"Infiernillo, Mich.",18.266667,-101.883333,194,Michoacán de Ocampo,Arteaga,Río Bajo Balsas,Balsas,99,1,98.7,0.762,98.67,0.756,99
+665117fa22e03d3d869c0ce2,"Tepuxtepec, Mich.",20.000278,-100.229167,2380,Michoacán de Ocampo,Contepec,Río Lerma 2,Lerma Santiago,1993.8,28.305,1993.5,25.344,1989.67,2.005,8
+665117fa22e03d3d869c0ce3,"San Juanico, Mich.",19.839444,-102.651389,0,Michoacán de Ocampo,Cotija,Río Tepalcatepec,Balsas,2377.84,18.754,2376.6,15.675,2372.68,7.898,50
+665117fa22e03d3d869c0ce4,"Agostitlán, Mich.",19.579722,-100.608889,2520,Michoacán de Ocampo,Hidalgo,Río Cutzamala,Balsas,1604.56,71.69,1603.86,60.545,1601.35,30.381,50
+665117fa22e03d3d869c0ce5,"Pucuato, Mich.",19.621389,-100.684167,2486,Michoacán de Ocampo,Hidalgo,Río Cutzamala,Balsas,2508.95,5.875,2508,5.043,2502.6,1.506,30
+665117fa22e03d3d869c0ce6,"Sabaneta, Mich.",19.622778,-100.669444,2510,Michoacán de Ocampo,Hidalgo,Río Cutzamala,Balsas,2057,13.132,2055.98,10.299,2051.11,0.44,4
+665117fa22e03d3d869c0ce7,"Aristeo Mercado, Mich.",19.926111,-101.661111,1998,Michoacán de Ocampo,Jiménez,Río Angulo,Lerma Santiago,1688.45,17.096,1687.95,14.59,1684,0.458,3
+665117fa22e03d3d869c0ce8,"Copándaro, Mich.",20.001667,-102.861389,1997,Michoacán de Ocampo,Jiquilpan,Río Lerma 7,Lerma Santiago,1580.42,9.265,1578.91,6.028,1576.33,1.993,33
+665117fa22e03d3d869c0ce9,"Los Ángeles, Mich.",20.248889,-101.626667,1687,Michoacán de Ocampo,José Sixto Verduzco,Río Lerma 5,Lerma Santiago,1580.11,29.79,1580.01,28.677,1577.08,2.477,9
+665117fa22e03d3d869c0cea,"Zicuirán, Mich.",18.921111,-101.931944,0,Michoacán de Ocampo,La Huacana,Río Bajo Balsas,Balsas,301.44,47.485,299,36.294,292.56,15.129,42
+665117fa22e03d3d869c0ceb,"José María Morelos y Pavón, Mich.",18.048333,-102.180278,92,Michoacán de Ocampo,Lázaro Cárdenas,Río Bajo Balsas,Balsas,56.73,686.94,51.2,545.93,50.22,520.935,95
+665117fa22e03d3d869c0cec,"Laguna del Fresno, Mich.",19.838056,-100.406389,2078,Michoacán de Ocampo,Maravatío,Río Lerma 3,Lerma Santiago,1745.68,10.923,1745,8.282,1741.68,2.294,28
+665117fa22e03d3d869c0ced,"Coíntzio, Mich.",19.629722,-101.259167,2096,Michoacán de Ocampo,Morelia,Lago de Cuitzeo,Lerma Santiago,2428.58,17.332,2427.58,14.972,2420.7,3.102,21
+665117fa22e03d3d869c0cee,"Pátzcuaro, Mich.",19.542778,-101.616944,2042,Michoacán de Ocampo,Pátzcuaro,Lago de Pátzcuaro,Lerma Santiago,2350,537.527,2348.11,449.97,2342.35,232.614,52
+665117fa22e03d3d869c0cef,"Malpaís, Mich.",19.829167,-100.873611,1859,Michoacán de Ocampo,Queréndaro,Lago de Cuitzeo,Lerma Santiago,2500,11.534,2499,9.485,2493.55,1.667,18
+665117fa22e03d3d869c0cf0,"Tercer Mundo, Mich.",19.766389,-100.299167,2466,Michoacán de Ocampo,Senguio,Río Lerma 3,Lerma Santiago,1714.41,249.843,1711.9,194.454,1706.32,91.29,47
+665117fa22e03d3d869c0cf1,"Los Olivos, Mich.",19.210833,-102.865556,379,Michoacán de Ocampo,Tepalcatepec,Río Tepalcatepec,Balsas,1843.56,27.249,1842.53,18.512,1839.84,3.609,19
+665117fa22e03d3d869c0cf2,"Urepetiro, Mich.",19.962222,-102.137778,1807,Michoacán de Ocampo,Tlazazalca,Río Duero,Lerma Santiago,421,16.271,418,10.262,411.82,2.804,27
+665117fa22e03d3d869c0cf3,"Guaracha, Mich.",19.979167,-102.541389,1580,Michoacán de Ocampo,Villamar,Río Lerma 7,Lerma Santiago,1534.9,10,1533.88,8.837,1531.6,0.098,1
+665117fa22e03d3d869c0cf4,"Jaripo, Mich.",19.958333,-102.601944,1587,Michoacán de Ocampo,Villamar,Río Lerma 7,Lerma Santiago,1743,220.1,1741.4,202.4,1726.13,68.632,34
+665117fa22e03d3d869c0cf5,"De Gonzalo, Mich.",20.304444,-102.436944,1534,Michoacán de Ocampo,Vista Hermosa,Río Lerma 7,Lerma Santiago,1989.209,9.717,1987.659,2.752,1995.36,0.211,8
+665117fa22e03d3d869c0cf6,"El Bosque, Mich.",19.387778,-100.421111,1909,Michoacán de Ocampo,Zitácuaro,Río Cutzamala,Balsas,2001.32,79.233,1995.97,50.84,1985.08,14.951,29
+665117fa22e03d3d869c0cf7,"El Rodeo, Mor.",18.765278,-99.331389,1200,Morelos,Miacatlán,Río Amacuzac,Balsas,1166.5,33.137,1164.2,26.984,1152.19,2.137,8
+665117fa22e03d3d869c0cf8,"Leonardo Rodríguez Alcaine, Nay.",21.428333,-104.450833,0,Nayarit,Santa María del Oro,Río Santiago 4,Lerma Santiago,232,6950,222,5785.16,195.28,3354.4,58
+665117fa22e03d3d869c0cf9,"Aguamilpa Solidaridad, Nay.",21.839167,-104.802222,0,Nayarit,Tepic,Río Santiago 5,Lerma Santiago,66.1,35.591,63.41,26.179,62.59,23.63,90
+665117fa22e03d3d869c0cfa,"Reguladora San Rafael, Nay.",21.8,-104.8,0,Nayarit,Tepic,Río Santiago 6,Lerma Santiago,578,2392.88,575,2292.92,538.89,1317.57,57
+665117fa22e03d3d869c0cfb,"Salinillas, N.L.",27.429167,-100.372222,233,Nuevo León,Anáhuac,Río Salado,Bravo Conchos,394,2393.11,391,2282.13,369.94,1554.746,68
+665117fa22e03d3d869c0cfc,"Cuchillo Solidaridad, N.L.",25.711667,-99.276944,145,Nuevo León,China,Río San Juan 1,Bravo Conchos,166.66,1784.292,162.35,1123.143,154.29,374.622,33
+665117fa22e03d3d869c0cfd,"José López Portillo, N.L.",24.9375,-99.399722,270,Nuevo León,Linares,Río Pablillo 2,San Fernando-Soto La Marina,449.2,42.657,448.54,39.49,441.66,14.315,36
+665117fa22e03d3d869c0cfe,"Rodrigo Gómez, N.L.",25.428056,-100.128056,460,Nuevo León,Santiago,Río San Juan 1,Bravo Conchos,232,19.011,232,19.011,230.29,11.395,60
+665117fa22e03d3d869c0cff,"Miguel de la Madrid Hurtado, Oax.",17.999167,-96.263611,42,Oaxaca,San Lucas Ojitlán,Río Santo Domingo,Papaloapan,285.5,393,282.52,300,263.13,17.682,6
+665117fa22e03d3d869c0d00,"Yosocuta, Oax.",17.724444,-97.826111,1410,Oaxaca,San Marcos Arteaga,Río Mixteco,Balsas,70.01,3547.16,64.86,2599.51,54.55,1184.82,46
+665117fa22e03d3d869c0d01,"Presidente Alemán, Oax.",18.232222,-96.412222,80,Oaxaca,San Miguel Soyaltepec,Río Tonto,Papaloapan,68.5,9105.54,66.5,8119.09,54.01,3295.68,41
+665117fa22e03d3d869c0d02,"Presidente Benito Juárez, Oax.",16.445556,-95.397778,180,Oaxaca,Santa María Jalapa del Marqués,Río Tehuantepec 1,Tehuantepec,139.85,1726.747,124.25,720.317,109.42,212.196,29
+665117fa22e03d3d869c0d03,"La Laguna, Hgo.",20.135556,-98.128333,2050,Puebla,Acaxochitlán,Río Cazones,Norte de Veracruz,1512.55,57.26,1509.7,47.226,1500.5,24.1,51
+665117fa22e03d3d869c0d04,"Los Reyes, Hgo.",20.174722,-98.131944,2260,Puebla,Acaxochitlán,Río Cazones,Norte de Veracruz,2062,391.489,2059.02,300.654,2050.24,117.611,39
+665117fa22e03d3d869c0d05,"Tenango, Pue.",20.199444,-97.983333,1260,Puebla,Huauchinango,Río Tecolutla,Norte de Veracruz,805,14.98,804.5,13.9,799.88,6.206,45
+665117fa22e03d3d869c0d06,"Necaxa, Pue.",20.216667,-98.000556,1364,Puebla,Juan Galindo,Río Tecolutla,Norte de Veracruz,1351.4,46.576,1345.6,28.479,1335.06,7.25,25
+665117fa22e03d3d869c0d07,"Manuel Ávila Camacho, Pue.",18.9125,-98.108611,2060,Puebla,Puebla,Río Bajo Atoyac,Balsas,1343,39.283,1338,29.055,1330.32,15.828,54
+665117fa22e03d3d869c0d08,"Nexapa, Pue.",20.168333,-97.984722,1340,Puebla,Tlaola,Río Tecolutla,Norte de Veracruz,1362.35,15.313,1360,12.5,1354.58,6.081,49
+665117fa22e03d3d869c0d09,"La Soledad, Pue.",19.960833,-97.446667,1590,Puebla,Tlatlauquitepec,Río Tecolutla,Norte de Veracruz,1905.15,8.042,1902.1,5.791,1886.9,0.432,7
+665117fa22e03d3d869c0d0a,"San Ildefonso, Qro.",20.198611,-99.9625,0,Querétaro,Amealco de Bonfil,Río Ðado,Pánuco,784.55,11.2,780.55,8,769.65,2.231,28
+665117fa22e03d3d869c0d0b,"El Batán, Qro.",20.504167,-100.412222,1881,Querétaro,Corregidora,Río Querétaro,Lerma Santiago,2242.5,58.026,2239,47.812,2210.96,0.807,2
+665117fa22e03d3d869c0d0c,"Jalpan, Qro.",21.230278,-99.479722,760,Querétaro,Jalpan de Serra,Río Santa María 3,Pánuco,1907.68,3.777,1906.68,2.479,1904,0,0
+665117fa22e03d3d869c0d0d,"La Venta, Qro.",20.498611,-100.190556,0,Querétaro,Pedro Escobedo,Río San Juan 1,Pánuco,1891.1,14.414,1890,9.312,1887.5,0,0
+665117fa22e03d3d869c0d0e,"Constitución de 1917, Qro.",20.418611,-100.080278,1295,Querétaro,San Juan del Río,Río Galindo,Pánuco,1882.5,14.178,1881.55,9.781,1871.25,0,0
+665117fa22e03d3d869c0d0f,"La Llave, Qro.",20.461944,-99.994722,0,Querétaro,San Juan del Río,Río San Juan 1,Pánuco,1928.39,76.461,1927.06,66.08,1910.83,0.907,1
+665117fa22e03d3d869c0d10,"El Centenario, Qro.",20.513333,-99.897778,1820,Querétaro,Tequisquiapan,Río San Juan 1,Pánuco,1933.7,5.656,1933.3,5.223,1923.82,0.359,7
+665117fa22e03d3d869c0d11,"Cañada del Lobo, S.L.P.",22.094722,-100.9675,1929,San Luis Potosí,San Luis Potosí,Presa San José - Los Pilares y otras,El Salado,1788.1,22.4,1783.8,9.51,1773.78,0.11,1
+665117fa22e03d3d869c0d12,"Gonzalo N. Santos, S.L.P.",22.092222,-101.098611,2115,San Luis Potosí,San Luis Potosí,Presa San José - Los Pilares y otras,El Salado,2000.85,5.199,1996.8,3.293,1979.4,0.014,0
+665117fa22e03d3d869c0d13,"El Potosino, S.L.P.",22.099722,-101.078056,1950,San Luis Potosí,San Luis Potosí,Presa San José - Los Pilares y otras,El Salado,2047.87,9.054,2044.85,6.685,2029.01,0.316,5
+665117fa22e03d3d869c0d14,"San José, S.L.P.",22.150278,-101.054444,1960,San Luis Potosí,San Luis Potosí,Presa San José - Los Pilares y otras,El Salado,1962.1,2.161,1958.8,1.244,1952.32,0.193,16
+665117fa22e03d3d869c0d15,"La Muñeca, S.L.P.",21.629444,-100.548333,1778,San Luis Potosí,Tierra Nueva,Río Santa María 1,Pánuco,1841.75,31,1837.7,24.14,1825.72,5.29,22
+665117fa22e03d3d869c0d16,"Valentín Gama, S.L.P.",21.88,-100.820556,1789,San Luis Potosí,Villa de Reyes,Arroyo Altamira,Pánuco,183.48,4034.52,176,3086.61,131.71,208.374,7
+665117fa22e03d3d869c0d17,"Adolfo López Mateos, Sin.",25.101389,-107.388333,111,Sinaloa,Badiraguato,Río Humaya,Sinaloa,162.17,987.522,156.2,687.988,130.82,51.606,8
+665117fa22e03d3d869c0d18,"Luis Donaldo Colosio, Sin.",26.844722,-108.367778,168,Sinaloa,Choix,Río Fuerte 1,Sinaloa,164.64,815.592,154.5,403.9,139.52,111.262,28
+665117fa22e03d3d869c0d19,"José López Portillo, Sin.",24.571667,-106.807222,1470,Sinaloa,Cosalá,Río San Lorenzo 2,Sinaloa,290,4567.08,274,3202.16,214.99,498.707,16
+665117fa22e03d3d869c0d1a,"Juan Guerrero Alcocer, Sin.",24.753611,-107.059444,0,Sinaloa,Culiacán,Río Culiacán,Sinaloa,112.65,685.11,109.5,519.28,92.91,46.152,9
+665117fa22e03d3d869c0d1b,"Sanalona, Sin.",24.815,-107.151389,170,Sinaloa,Culiacán,Río Culiacán,Sinaloa,286.95,3966.17,272.16,2580.19,221.35,288.279,11
+665117fa22e03d3d869c0d1c,"Josefa Ortiz de Domínguez, Sin.",26.426944,-108.7025,300,Sinaloa,El Fuerte,Río Fuerte 2,Sinaloa,176.28,102,168.5,54.684,150.21,4.483,8
+665117fa22e03d3d869c0d1d,"Miguel Hidalgo, Sin.",26.509722,-108.58,300,Sinaloa,El Fuerte,Río Fuerte 2,Sinaloa,252.5,2687.074,237.06,1618.751,203.82,322.183,20
+665117fa22e03d3d869c0d1e,"Ing. Aurelio Benassini Vizcaíno, Sin.",24.121944,-106.695833,35,Sinaloa,Elota,Río Habitas,Sinaloa,196.61,469.2,188.45,294.578,169.52,70.241,24
+665117fa22e03d3d869c0d1f,"Lic. Eustaquio Buelna, Sin.",25.484722,-108.065556,0,Sinaloa,Salvador Alvarado,Río Mocorito 2,Sinaloa,148,4171.273,140.83,3096.63,104.28,217.126,7
+665117fa22e03d3d869c0d20,"Ing. Guillermo Blake Águilar, Sin.",26.103611,-108.3275,150,Sinaloa,Sinaloa,Arroyo Ocoroni,Sinaloa,68.85,264.95,63.54,80.08,57.44,7.202,9
+665117fa22e03d3d869c0d21,"Gustavo Díaz Ordaz, Sin.",25.856667,-107.911111,1470,Sinaloa,Sinaloa,Río Sinaloa 1,Sinaloa,228.4,284.47,226.98,219.52,214,0,0
+665117fa22e03d3d869c0d22,"Adolfo Ruíz Cortínes, Son.",27.226111,-109.106667,148,Sonora,Álamos,Río Mayo 2,Sonora Sur,145.47,1822.141,138.46,1200,97.76,10.413,1
+665117fa22e03d3d869c0d23,"Agua Caliente, Son.",27.75,-109.887778,0,Sonora,Cajeme,Río Yaqui 3,Sonora Sur,112.2,4478.215,105.5,3023.14,81.13,387.837,13
+665117fa22e03d3d869c0d24,"Álvaro Obregón, Son.",27.8225,-109.8925,116,Sonora,Cajeme,Río Yaqui 2,Sonora Sur,79.6,41.16,79.1,37.58,75.09,15.323,41
+665117fa22e03d3d869c0d25,"Ignacio R. Alatorre, Son.",28.426389,-110.396944,245,Sonora,Guaymas,Río Mátape 1,Sonora Sur,840.15,1116.46,830.7,703.38,808.72,113.085,16
+665117fa22e03d3d869c0d26,"Abelardo Rodríguez Lujan, Son.",29.076667,-110.92,230,Sonora,Hermosillo,Río Sonora 2,Sonora Sur,102.71,29.69,100,16.16,91.2,0,0
+665117fa22e03d3d869c0d27,"Ing. Rodolfo Félix Valdés, Son.",29.2125,-110.725556,321,Sonora,Hermosillo,Río Sonora 2,Sonora Sur,293.4,222.47,289.36,121.202,277.15,7.403,6
+665117fa22e03d3d869c0d28,"Lázaro Cárdenas, Son.",30.437778,-109.378889,860,Sonora,Nacozari de García,Río Bavispe,Sonora Sur,296.8,3511.96,290.5,2833.07,246.4,317.946,11
+665117fa22e03d3d869c0d29,"Plutarco Elías Calles, Son.",28.976667,-109.642222,2110,Sonora,Soyopa,Río Yaqui 1,Sonora Sur,600.25,66.33,597,41.47,584.8,0.914,2
+665117fa22e03d3d869c0d2a,"Cuauhtémoc, Son.",30.873333,-111.516389,590,Sonora,Tubutama,Río Magdalena,Sonora Norte,123.9,255.65,122.95,230.78,108.15,46.807,20
+665117fa22e03d3d869c0d2b,"República Española, Tamps.",23.259444,-97.991944,90,Tamaulipas,Aldama,Río San Rafael 1,San Fernando-Soto La Marina,89.43,105.99,83,54.78,74.77,8.523,16
+665117fa22e03d3d869c0d2c,"Marte Rodolfo Gómez, Tamps.",26.204722,-98.925556,272,Tamaulipas,Camargo,Río San Juan 3,Bravo Conchos,91.8,133.432,89.92,83.784,84.75,22.773,27
+665117fa22e03d3d869c0d2d,"Estudiante Ramiro Caballero Dorantes, Tamps.",22.605,-98.691667,50,Tamaulipas,González,Río Guayalejo 4,Pánuco,52.55,654.37,51.7,563.443,42.47,60.391,11
+665117fa22e03d3d869c0d2e,"Pedro José Méndez, Tamps.",24.2475,-99.555833,153,Tamaulipas,Hidalgo,Río Purificación 1,San Fernando-Soto La Marina,144.04,5498.23,140.44,3910.69,125.16,322.08,8
+665117fa22e03d3d869c0d2f,"Derivadora Las Blancas, Tamps.",26.408889,-99.233611,51,Tamaulipas,Mier,Río Álamo,Bravo Conchos,449.4,38.36,447.22,31.26,433.72,5.676,18
+665117fa22e03d3d869c0d30,"Internacional Falcón, Tamps.",26.56,-99.17,78,Tamaulipas,Mier,Río Bravo 12,Bravo Conchos,83,2208.663,76.3,781.7,71.12,244.317,31
+665117fa22e03d3d869c0d31,"Vicente Guerrero, Tamps.",23.959444,-98.666389,230,Tamaulipas,Padilla,Área no aforada,San Fernando-Soto La Marina,93.482,1607.962,91.81,1351.63,77.845,174.3,13
+665117fa22e03d3d869c0d32,"Tampico, Tamps.",22.238333,-97.876111,40,Tamaulipas,Tampico,Río Tamesí,Pánuco,2486.87,47.97,2486.4,42.63,2483.89,20.096,47
+665117fa22e03d3d869c0d33,"Lic. Emilio Portes Gil, Tamps.",22.943889,-98.791389,140,Tamaulipas,Xicoténcatl,Río Guayalejo 3,Pánuco,333.5,552.7,332.7,493.02,331.71,420.214,85
+665117fa22e03d3d869c0d34,"San José Atlanga, Tlax.",19.556111,-98.200556,2498,Tlaxcala,Atlangatepec,Río Alto Atoyac,Balsas,21.65,31.6,21.25,28.537,15.16,2.731,10
+665117fa22e03d3d869c0d35,"Canseco, Ver.",18.415833,-95.118333,254,Veracruz de Ignacio de la Llave,Catemaco,Río San Juan,Papaloapan,115.94,8.126,110.78,2.5,109.26,1.59,64
+665117fa22e03d3d869c0d36,"La Cangrejera, Ver.",18.109444,-94.330833,24,Veracruz de Ignacio de la Llave,Coatzacoalcos,Río Huazuntlán,Coatzacoalcos,28.28,572.32,23.64,249.97,18.17,53.566,21
+665117fa22e03d3d869c0d37,"Paso de Piedras, Ver.",21.7375,-98.155833,40,Veracruz de Ignacio de la Llave,Pánuco,Río Chicayán 1,Pánuco,2098.16,36.744,2096,26.22,2088.56,5.368,20
+665117fa22e03d3d869c0d38,"Presa el Moralillo, Ver.",21.184444,-97.814444,190,Veracruz de Ignacio de la Llave,Tepetzintla,Río Tuxpan,Norte de Veracruz,1701.41,50.377,1696.01,31.598,1683.39,7.776,25
+665117fa22e03d3d869c0d39,"Gobernador Leobardo Reynoso, Zac.",23.179722,-103.207778,2101,Zacatecas,Fresnillo,Presa Cazadero,Nazas Aguanaval,2249.64,14.041,2248.64,10.476,2244.47,0.775,7
+665117fa22e03d3d869c0d3a,"Santa Rosa, Zac.",22.923611,-103.108889,2240,Zacatecas,Fresnillo,Presa Santa Rosa,Nazas Aguanaval,1949.33,13.944,1946,9.172,1939.44,2.994,33
+665117fa22e03d3d869c0d3b,"Moraleños, Zac.",21.711111,-102.903611,1479,Zacatecas,Jalpa,Río Juchipila 1,Lerma Santiago,2000.26,11.421,1997.26,6.2,1993.66,2.114,34
+665117fa22e03d3d869c0d3c,"Ramón López Velarde, Zac.",22.824167,-102.953333,2166,Zacatecas,Jerez,Río Tepetongo,Lerma Santiago,1704.5,70.92,1700.76,50.55,1688.09,9.472,19
+665117fa22e03d3d869c0d3d,"Santiago, Zac.",24.290833,-103.506111,1990,Zacatecas,Miguel Auza,Presa La Flor,Nazas Aguanaval,1919.94,44.68,1916,22.178,1910.45,3.885,18
+665117fa22e03d3d869c0d3e,"Santa Teresa, Zac.",22.326667,-103.495833,1960,Zacatecas,Monte Escobedo,Río Bolaños 1,Lerma Santiago,1831.19,11.165,1829,9.018,1820.79,3.64,40
+665117fa22e03d3d869c0d3f,"El Cazadero, Zac.",23.693056,-103.093611,1928,Zacatecas,Río Grande,San Francisco,Nazas Aguanaval,1322.93,26.07,1318.96,20.932,1309.32,8.17,39
+665117fa22e03d3d869c0d40,"El Chique, Zac.",21.997222,-102.896111,1648,Zacatecas,Tabasco,Río Juchipila 1,Lerma Santiago,1907.48,8.761,1904.25,4.62,1901.11,2.12,46
+665117fa22e03d3d869c0d41,"Miguel Alemán, Zac.",21.645833,-103.35,1740,Zacatecas,Tepechitlán,Río Tlaltenango,Lerma Santiago,2129.53,125.921,2127.35,95.717,2116.18,14.787,15
+665117fa22e03d3d869c0d42,"José María Morelos, Zac.",21.588889,-103.3375,1786,Zacatecas,Tepechitlán,Río Tlaltenango,Lerma Santiago,2080.18,9.435,2077.05,6.905,2071.62,3.682,53
+665117fa22e03d3d869c0d43,"Manuel Felgueres, Zac.",22.845278,-103.382778,1989,Zacatecas,Valparaíso,Arroyo Lobatos,Lerma Santiago,1586.48,192.567,1580.18,138.909,1567.17,57.925,42
+665117fa22e03d3d869c0d44,"Palomas, Zac.",22.347778,-102.798056,2025,Zacatecas,Villanueva,Río Palomas,Lerma Santiago,1.4,854,1,676,-0.74,-9.8,-1
+665117fa22e03d3d869c0d45,"Ing. Julián Adame Alatorre, Zac.",22.120556,-102.864167,1729,Zacatecas,Villanueva,Presa El Chique,Lerma Santiago,2042.35,1135.573,2038.57,646.582,2035.42,334.168,52
